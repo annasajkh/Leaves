@@ -1,7 +1,7 @@
 # Leaves
 Bransley fern fractal
 
-this code is from wikipedia lol i just modify it a little bit
+this project code is from wikipedia lol i just modify it a little bit
 
 # build the project 
 clone or download this repo\
